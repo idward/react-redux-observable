@@ -1,0 +1,8 @@
+export const PING = 'PING'
+export const PONG = 'PONG'
+export const FETCH_USER = 'FETCH_USER'
+export const FETCH_USER_FULFILLED = 'FETCH_USER_FULFILLED'
+export const FETCH_USER_CANCELLED = 'FETCH_USER_CANCELLED'
+export const FETCH_USER_ERROR = 'FETCH_USER_ERROR'
+export const INCREMENT = 'INCREMENT'
+export const INCREMENT_IF_ODD = 'INCREMENT_IF_ODD'
